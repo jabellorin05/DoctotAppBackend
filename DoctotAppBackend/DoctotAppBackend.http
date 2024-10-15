@@ -1,0 +1,6 @@
+@DoctotAppBackend_HostAddress = http://localhost:5029
+
+GET {{DoctotAppBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
